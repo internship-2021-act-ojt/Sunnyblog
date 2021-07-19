@@ -1,5 +1,8 @@
 <template>
-  <div class="searchBars"></div>
+  <div class="searchBars">
+    search bar
+  </div>
+
 </template>
 
 <script>

@@ -1,10 +1,16 @@
 <template>
-<div class="mainContent"></div>
+<div class="mainContent">
+  <MainTop/>
+  <MainBottom/>
+</div>
 </template>
 
 <script>
+import MainTop from "./MainTop";
+import MainBottom from "./MainBottom";
 export default {
-  name: "MainContent"
+  name: "MainContent",
+  components: {MainBottom, MainTop}
 }
 </script>
 
@@ -14,6 +20,9 @@ export default {
   height: 100%;
   background-color: darkgrey;
   padding: 48px 35px;
+  display: flex;
+  flex-direction: column;
+
 
 }
 </style>

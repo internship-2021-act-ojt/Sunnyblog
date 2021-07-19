@@ -31,8 +31,7 @@ export default {
   display : flex;
   flex-direction: row;
   height: 100vh;
-  width : 100vh;
-  align-items : center;
+
 }
 
 

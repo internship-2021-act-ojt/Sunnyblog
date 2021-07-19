@@ -17,12 +17,12 @@ export default {
 
 <style scoped>
 .menuBars {
-  height: 18%;
+  height: 30%;
   background-color: white;
   width : 100%;
   display : flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: space-between;
 
 }
 .menuItems {
