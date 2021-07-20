@@ -17,7 +17,7 @@ export default {
 
 <style scoped>
 .menuBars {
-  height: 30%;
+  height: 400px;
   background-color: white;
   width : 100%;
   display : flex;

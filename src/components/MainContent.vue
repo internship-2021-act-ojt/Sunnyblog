@@ -18,7 +18,7 @@ export default {
 .mainContent{
   width: 100%;
   height: 100%;
-  background-color: darkgrey;
+
   padding: 48px 35px;
   display: flex;
   flex-direction: column;

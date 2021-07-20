@@ -35,7 +35,7 @@
   padding: 48px 35px;
   width: 380px;
   height: 100%;
-  background-color: antiquewhite;
+
   display : flex;
   flex-direction: column;
   border-right: black solid 1px;

@@ -11,6 +11,6 @@ export default {
 <style scoped>
 .footBar {
   height: 10%;
-  background-color: blueviolet;
+  background-color: lightgrey;
 }
 </style>
